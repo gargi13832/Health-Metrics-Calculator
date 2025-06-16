@@ -1095,4 +1095,4 @@ function fallbackCopyToClipboard(text) {
     }
     
     document.body.removeChild(textArea);
-}
+} 
